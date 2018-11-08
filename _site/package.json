@@ -1,0 +1,19 @@
+{
+  "name": "palindrome-website",
+  "version": "0.1.0",
+  "description": "palindrome tester",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harry-th/palindrome-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harry-th/palindrome-website/issues"
+  },
+  "homepage": "https://github.com/harry-th/palindrome-website#readme"
+}
